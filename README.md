@@ -1,7 +1,7 @@
 <h1 align="center">SQL ADVANCED Template</h1>
 
 **SQL ADVANCED 정규과제 템플릿**입니다.  
-이 템플릿은 다트비 7기에서 매주 주어지는 SQL ADVANCED 정규 과제를 정리하고 제출하기 위한 기본 템플릿을 제공합니다.  
+이 템플릿은 다트비 8기에서 매주 주어지는 SQL ADVANCED 정규 과제를 정리하고 제출하기 위한 기본 템플릿을 제공합니다.  
 
 ---
 
