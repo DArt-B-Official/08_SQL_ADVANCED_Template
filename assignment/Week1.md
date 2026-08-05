@@ -13,19 +13,19 @@ https://www.youtube.com/watch?v=EftIRlr6rPI&list=PLVsNizTWUw7GCfy5RH27cQL5MeKYnl
 https://www.youtube.com/watch?v=lBk5YhLZevs&list=PLVsNizTWUw7GCfy5RH27cQL5MeKYnl8Pm&index=6
 -->
 
-**교재 실습 예제 파일은 07_SQL_ADVANCED_Template 레포지토리의 src 폴더에 업로드되어 있습니다. market_db 파일도 해당 폴더에 함께 포함되어 있으니 참고하시기 바랍니다.**
+**교재 실습 예제 파일은 08_SQL_ADVANCED_Template 레포지토리의 src 폴더에 업로드되어 있습니다. market_db 파일도 해당 폴더에 함께 포함되어 있으니 참고하시기 바랍니다.**
 
 **👀(수행 인증샷은 필수입니다.)** 
 
 ## SQL_ADVANCED_1st_TIL
 
 ### 1장 데이터베이스와 SQL
-#### 01. 데이터베이스 알아보기
+#### 01. 데이터베이스 알아보기 (범위 제외)
 #### 02. MySQL 설치하기
 ### 2장 실전용 SQL 미리 맛보기
 #### 01. 건물을 짓기 위한 설계도: 데이터베이스 모델링
 #### 02. 데이터베이스 시작부터 끝까지
-#### 03. 데이터베이스 개체 
+#### 03. 데이터베이스 개체  (범위 제외)
 
 
 ## Study Schedule
@@ -49,20 +49,7 @@ https://www.youtube.com/watch?v=lBk5YhLZevs&list=PLVsNizTWUw7GCfy5RH27cQL5MeKYnl
 
 # 1️⃣ 학습 내용 정리
 
-## 1. 데이터베이스 알아보기
-
-<!-- 데이터베이스와 DBMS에 관해 배우게 된 점을 적어주세요. -->
-
-> **확인문제: 다음 소프트웨어 중에서 DBMS가 아닌 것을 모두 고르세요.**
-
-> MySQL / Excel / Oracle / SQL Server / MariaDB
-
-```
-여기에 답을 적어주세요!
-```
-
-
-## 2. MySQL 설치하기
+## 1. MySQL 설치하기
 
 <!-- 이번 챕터는 개념정리 없이 MySQL 설치 후 인증사진으로 대체합니다. -->
 
