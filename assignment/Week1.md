@@ -50,6 +50,7 @@ https://www.youtube.com/watch?v=lBk5YhLZevs&list=PLVsNizTWUw7GCfy5RH27cQL5MeKYnl
 # 1️⃣ 학습 내용 정리
 
 ## 1. MySQL 설치하기
+> **MySQL 설치하는 과정(34~50p)과 과제 글을 참고하여 설치한 뒤에 인증해주세요.**
 
 <!-- 이번 챕터는 개념정리 없이 MySQL 설치 후 인증사진으로 대체합니다. -->
 
