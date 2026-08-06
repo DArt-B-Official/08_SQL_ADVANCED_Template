@@ -51,24 +51,24 @@ https://www.youtube.com/watch?v=WWAFAm9op2U&list=PLVsNizTWUw7GCfy5RH27cQL5MeKYnl
 
 <!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
 
-> **확인문제: 다음 SQL문의 빈칸에 들어갈 WHERE절의 문법으로 틀린 것을 고르세요.**
+> **확인문제: 주소의 지역이 서울, 경기인 회원을 추출하는 SQL 문입니다. 빈칸에 들어갈 수 있는 것을 모두 고르세요.**
 
 ```sql
 SELECT *
-FROM table_name
+FROM table
 WHERE ________;
 ```
 
 보기는 아래와 같습니다.
 ```
-1. mem_number == 4
-2. mem_number >= 4
-3. mem_number <= 4
-4. mem_number = 4
+1. addr IN('서울', '경기')
+2. addr BETWEEN '서울' AND '경기'
+3. addr = '서울' OR addr = '경기'
+4. addr = '서울' AND addr = '경기'
 ```
 
 ```
-여기에 답을 적어주세요!
+여기에 답과 근거를 적어주세요!
 ```
 
 
